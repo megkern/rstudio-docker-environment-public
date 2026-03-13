@@ -1,0 +1,15 @@
+# RStudio + Jupyter Docker Environment
+
+This repository contains a reproducible **RStudio and Jupyter Notebook environment** built with Docker. It is designed for **data scientists, researchers, and developers** who want a portable, isolated environment for analysis without installing software locally.
+
+---
+
+## 🔍 Purpose
+
+- **Reproducible workflows:** The Dockerfile defines a consistent environment across machines.
+- **Portable development:** Run RStudio and Jupyter on any system that supports Docker, including cloud servers like AWS EC2.
+- **Version control for infrastructure:** Scripts and configuration files are tracked in GitHub for easy collaboration and backup.
+
+---
+
+## 🗂 Repository Structure
